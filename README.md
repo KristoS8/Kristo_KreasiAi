@@ -126,11 +126,13 @@ Data tersebut dapat dibuat pada halaman create data. Untuk masuk ke halaman itu,
 <img width="2048" height="1622" alt="127 0 0 1_8000_article" src="https://github.com/user-attachments/assets/e8e56fc5-bebb-4de2-aac8-051f95364049" />
 
 # Halaman Create Data
+Pada halaman ini terdapat form untuk mengisi data artikel. Data tersebut akan masuk ke database.
 
 <img width="2048" height="1622" alt="127 0 0 1_8000_article_create" src="https://github.com/user-attachments/assets/138cb80d-a834-45ef-a6ba-7eda56b12ff9" />
 
 
 # Halaman Update Data
+Pada halaman ini terdapat form untuk mengupdate data artikel. Data tersebut diupdate dan masuk ke database.
 
 <img width="2048" height="1622" alt="127 0 0 1_8000_article_bahaya-konsumsi-antibiotik-tanpa-resep-dokter_edit" src="https://github.com/user-attachments/assets/dec0e878-6a79-45ea-8f7f-cb10c30bcf39" />
 
